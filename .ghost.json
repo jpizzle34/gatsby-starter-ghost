@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://cms.johnzambrano.dev",
+    "contentApiKey": "205233a2f1793bd667b202593b"
+  },
+  "production": {
+    "apiUrl": "https://cms.johnzambrano.dev",
+    "contentApiKey": "205233a2f1793bd667b202593b"
+  }
+}
